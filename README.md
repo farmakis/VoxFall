@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-<img width="80%" src="./media/logo.png">
+<img width="90%" src="./media/logo.png">
 </td>
 <td width="70%" align="left">
 <h1>Welcome to VoxFall</h1>
