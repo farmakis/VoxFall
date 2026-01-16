@@ -10,7 +10,6 @@
 </td>
 </tr>
 </table>
-<br>
 
 **If you ❤️ or simply use this project, don't forget to give the repository a ⭐,
 it means a lot to us !**
