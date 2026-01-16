@@ -1,9 +1,9 @@
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="30%" align="center">
 <img width="80%" src="./media/logo.png">
 </td>
-<td width="75%" align="left">
+<td width="70%" align="left">
 <h1>Welcome to VoxFall</h1>
 <p>The official repository for:<br><a href="https://doi.org/10.1016/j.enggeo.2025.108045"><em>VoxFall: Non-Parametric Volumetric Change Detection for Rockfalls 📚 </em></a><br><a href="https://doi.org/10.1016/j.enggeo.2025.108045"><img src="https://img.shields.io/badge/Elsevier-j.enggeo.2025.108045-DB7F2A.svg" alt="elsevier"></a></p>
 <a href="https://www.cloudcompare.org/"><img src="https://img.shields.io/badge/CloudCompare-2.14+-FFD700?logoColor=white" alt="cloudcompare"></a> <a href="https://pypi.org/project/pyvoxfall/"><img src="https://img.shields.io/badge/PyPI-pyvoxfall-FFD700?logo=pypi&logoColor=white" alt="pypi"></a> <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C%2B%2B-11+-3776AB?logo=cplusplus&logoColor=white" alt="cpp"></a> <a href="https://github.com/pre-commit/pre-commit"><img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" alt="python"></a> <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray" alt="license"></a>
@@ -23,7 +23,7 @@ VoxFall does not rely on any distance computation between two models while is fr
 The method treats the two input models as a single scene and applies two steps: 1) fitting an occupancy voxel grid of a resolution defined by the registration error; 2) empty space clustering and volume computation based on voxel adjacency. 
 
 <p align="center">
-  <img width="60%" src="./media/teaser.png">
+  <img width="70%" src="./media/teaser.png">
 </p>
 
 <br>
@@ -42,7 +42,7 @@ Simply install the latest version of [CloudCompare](https://www.danielgm.net/cc/
 
 Running the plugin will open VoxFall's graphical user interface (GUI).
 <p align="center">
-  <img width="40%" src="./media/cc-ui.png">
+  <img width="50%" src="./media/cc-ui.png">
 </p>
 
 For detailed instructions on how to use the VoxFall plugin, please refer to the [official documentation on the CloudCompare wiki](https://www.cloudcompare.org/doc/wiki/index.php/VoxFall_(plugin)).
