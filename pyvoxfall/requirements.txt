@@ -1,0 +1,7 @@
+numpy>=1.21.0
+open3d>=0.13.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+pillow>=8.3.0
+scikit-image>=0.18.0
+pyyaml>=5.4.0

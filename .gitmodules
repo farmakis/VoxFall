@@ -1,0 +1,3 @@
+[submodule "cc-plugin"]
+	path = cc-plugin
+	url = https://github.com/farmakis/qVoxFall
