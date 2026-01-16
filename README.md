@@ -23,7 +23,7 @@ VoxFall does not rely on any distance computation between two models while is fr
 The method treats the two input models as a single scene and applies two steps: 1) fitting an occupancy voxel grid of a resolution defined by the registration error; 2) empty space clustering and volume computation based on voxel adjacency. 
 
 <p align="center">
-  <img width="70%" src="./media/teaser.png">
+  <img width="80%" src="./media/teaser.png">
 </p>
 
 <br>
